@@ -11,7 +11,6 @@ This project demonstrates the analysis of football player statistics for the 202
 * [Data Description](#data-description)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
-* [License](#license)
 
 ## **Project Overview**
 
