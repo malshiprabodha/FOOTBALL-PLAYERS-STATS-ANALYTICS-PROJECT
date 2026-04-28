@@ -4,14 +4,6 @@
 
 This project demonstrates the analysis of football player statistics for the 2024-25 season using **PySpark**, **Python**, and **Pandas**. The goal is to uncover valuable insights about player performance, including rankings, trends, and key metrics like goals and assists.
 
-## **Table of Contents**
-
-* [Project Overview](#project-overview)
-* [Tech Stack](#tech-stack)
-* [Data Description](#data-description)
-* [Getting Started](#getting-started)
-* [Usage](#usage)
-
 ## **Project Overview**
 
 In this project, I analyzed large datasets of football player stats using **PySpark** for distributed data processing and **Seaborn**, **Matplotlib**, and **Pandas** for visualization and analysis. The key tasks included:
